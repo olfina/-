@@ -1,0 +1,927 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "Today": [
+            {
+                "comic_id": 26728,
+                "title": "图书馆的大魔法师",
+                "ep_id": 971224,
+                "ep_title": "室长有话要说",
+                "short_title": "40",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/a53b78372bd4a56ba86903e4c0c27ac41b502ecf.jpg",
+                "styles": [
+                    {
+                        "id": 998,
+                        "name": "奇幻"
+                    }
+                ],
+                "comment_total": 6154,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/e5b36d8c4d4eb9fffec2fb57a5a8abc3d5968be8.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26657,
+                "title": "武道独尊",
+                "ep_id": 972135,
+                "ep_title": "第496话 错误的选择",
+                "short_title": "501",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/40592814e4c48e941920402a555bc4a36fdadf0d.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 7554,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/71974f5ab430d3b462a69ebe74a4ce9fcce78f89.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27917,
+                "title": "归还者的魔法要特别",
+                "ep_id": 975661,
+                "ep_title": "207",
+                "short_title": "207",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/dcdef151bc2379731df0dafe7831d24e2ecdfdf0.jpg",
+                "styles": [
+                    {
+                        "id": 998,
+                        "name": "奇幻"
+                    }
+                ],
+                "comment_total": 13400,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/f6319decf0a312d0e348b8d8a3ba3b1b31621168.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 25539,
+                "title": "全职猎人",
+                "ep_id": 972157,
+                "ep_title": "恳求",
+                "short_title": "393",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/666d04e519f7669b11cf7c31daece486ce7b6597.png",
+                "styles": [
+                    {
+                        "id": 999,
+                        "name": "热血"
+                    }
+                ],
+                "comment_total": 28518,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/63eb0d12867473f344186b0f7cb84a19d694d26e.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27666,
+                "title": "无限邮差",
+                "ep_id": 974859,
+                "ep_title": "290",
+                "short_title": "290",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/40308d206999b7d181cc2263faad42e7b2f8260a.jpg",
+                "styles": [
+                    {
+                        "id": 1081,
+                        "name": "悬疑灵异"
+                    }
+                ],
+                "comment_total": 4402,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/4906a6cfc35ff369e3ecdcd45f8b405b756d2aed.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 24742,
+                "title": "航海王",
+                "ep_id": 972748,
+                "ep_title": "6个贝加班克",
+                "short_title": "1065",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/6407841c153a26755bb31b97c47ef691f09f22f9.png",
+                "styles": [
+                    {
+                        "id": 999,
+                        "name": "热血"
+                    }
+                ],
+                "comment_total": 252097,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/ac575cdf576bd5eb7775a5371d44e0809235bf20.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            }
+        ],
+        "Yesterday": [
+            {
+                "comic_id": 27658,
+                "title": "我不是大魔王",
+                "ep_id": 974997,
+                "ep_title": "牛刀小试",
+                "short_title": "146",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/8c3bc802b2b61a2adcc9d57caff2842a09631cdc.jpg",
+                "styles": [
+                    {
+                        "id": 998,
+                        "name": "奇幻"
+                    }
+                ],
+                "comment_total": 33455,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/703de4b55819062bd146042434acf53da52790db.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 24485,
+                "title": "元尊",
+                "ep_id": 973249,
+                "ep_title": "第447话：陨落妖影（下）",
+                "short_title": "896",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/8f06ca560242cff41762d3e7c8a343c30c4eed4f.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 23825,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/4d5f1405a5a925680b7b4dbcb804436487a671e1.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26802,
+                "title": "测不准的阿波连同学",
+                "ep_id": 970864,
+                "ep_title": "第154话",
+                "short_title": "154",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/7120859fed0ee4b4b36e6232c5e0d21a4386cf8a.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 22823,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/df1bf43e8cb9d0783817f22c0eb795c92dda35f7.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27791,
+                "title": "怎么办！我穿越成了最弱小野怪",
+                "ep_id": 974095,
+                "ep_title": "他们是不是在pua?",
+                "short_title": "265",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/a711270b7440f9be71e48983adfd56d7cb140745.jpg",
+                "styles": [
+                    {
+                        "id": 1088,
+                        "name": "游戏竞技"
+                    }
+                ],
+                "comment_total": 93141,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/d82a5c4643f2553a647971fd3db993dc8c702f15.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27540,
+                "title": "他和她的魔法契约",
+                "ep_id": 972559,
+                "ep_title": "命悬一线",
+                "short_title": "267",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/db1f3165f0558d95a7e7011e50b464a0148d5544.png",
+                "styles": [
+                    {
+                        "id": 1054,
+                        "name": "西幻"
+                    }
+                ],
+                "comment_total": 1976,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/221a5d5d5c7c9fbceff82a4011afdc8d62884651.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            }
+        ],
+        "Saturday": [
+            {
+                "comic_id": 25940,
+                "title": "反派初始化",
+                "ep_id": 973862,
+                "ep_title": "再多夸夸乔伊！",
+                "short_title": "142",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/1726760e5c4ee9ae7c68add8d942677128db712f.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 94705,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/cb67bb80adc5d9312289b8566172067bd48ac3c5.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27915,
+                "title": "我独自盗墓",
+                "ep_id": 973067,
+                "ep_title": "阿卡西记录",
+                "short_title": "372",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/0dd183a393c3f2b326daede5c32e4de34e9e71dd.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 39653,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/a89fd50845db680951846c2bcae13d6a10198fa2.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 27775,
+                "title": "失落的公主",
+                "ep_id": 963440,
+                "ep_title": "三对一",
+                "short_title": "118",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/c708996ff2238fba4940d9c7eef120349ac762b6.jpg",
+                "styles": [
+                    {
+                        "id": 1054,
+                        "name": "西幻"
+                    }
+                ],
+                "comment_total": 1539,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/339f86df2b9a8109980e97589b63624b797525ec.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26657,
+                "title": "武道独尊",
+                "ep_id": 966528,
+                "ep_title": "第495话底牌尽出，百万符兵！",
+                "short_title": "500",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/40592814e4c48e941920402a555bc4a36fdadf0d.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 7554,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/71974f5ab430d3b462a69ebe74a4ce9fcce78f89.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 24485,
+                "title": "元尊",
+                "ep_id": 973246,
+                "ep_title": "第447话：陨落妖影（上）",
+                "short_title": "895",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/719dfefba86f7fc78e8d980b12f819046dbbb561.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 23825,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/4d5f1405a5a925680b7b4dbcb804436487a671e1.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27817,
+                "title": "百炼成神",
+                "ep_id": 972964,
+                "ep_title": "灵佛神域",
+                "short_title": "第990话",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/9c44b38e8002da64b438645beef1b54170860054.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 125166,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/006f5f36ca346461fd8db3a2f46030dad7644863.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 25976,
+                "title": "从今天开始当城主",
+                "ep_id": 970754,
+                "ep_title": "精炼钢材",
+                "short_title": "453",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/f5104710bf20fcb556df073b2f9aec740e5617da.jpg",
+                "styles": [
+                    {
+                        "id": 998,
+                        "name": "奇幻"
+                    }
+                ],
+                "comment_total": 17769,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/1502ce5f6376b2ecbd08c26a004f7fe9d696f1d3.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27661,
+                "title": "仙王的日常生活",
+                "ep_id": 973233,
+                "ep_title": "孙蓉篇20",
+                "short_title": "226",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/f8d219b09f4d89bf80fb7fef8264bf365a9352a0.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 53888,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/8e0ff91be936e0f8e37f548ca816520ef55b0b23.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            }
+        ],
+        "Friday": [
+            {
+                "comic_id": 27171,
+                "title": "龙与勇者与邮递员",
+                "ep_id": 972476,
+                "ep_title": "62",
+                "short_title": "62",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/b39e44c339eeb3f37dcd5a1246c22a0d47401061.jpg",
+                "styles": [
+                    {
+                        "id": 998,
+                        "name": "奇幻"
+                    }
+                ],
+                "comment_total": 2149,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/ebf8226c45a2b0cecd0f233ceabc50b5e1e5d824.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27884,
+                "title": "潘菲亚传奇",
+                "ep_id": 929862,
+                "ep_title": "199",
+                "short_title": "199",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/36835a5138439db04495f7f93412373ef34face9.jpg",
+                "styles": [
+                    {
+                        "id": 1015,
+                        "name": "科幻"
+                    }
+                ],
+                "comment_total": 2119,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/f603bc6f179796ff1ae5dc3716597b88a32b87cd.jpg",
+                "allow_wait_free": true,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27915,
+                "title": "我独自盗墓",
+                "ep_id": 970841,
+                "ep_title": "自寻死路",
+                "short_title": "371",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/0dd183a393c3f2b326daede5c32e4de34e9e71dd.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 39653,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/a89fd50845db680951846c2bcae13d6a10198fa2.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 26431,
+                "title": "文豪野犬",
+                "ep_id": 969155,
+                "ep_title": "二福  前篇",
+                "short_title": "第104话",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/fc4e4477d74121ea857ecb3dfde8da9419b6a1c6.jpg",
+                "styles": [
+                    {
+                        "id": 1023,
+                        "name": "悬疑"
+                    }
+                ],
+                "comment_total": 74512,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/7612c241abcfc6b7154de0a32d69196d30f6790d.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27809,
+                "title": "快把我哥带走",
+                "ep_id": 971701,
+                "ep_title": "347",
+                "short_title": "347",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/7fbc525b70e5de8689bfda4ab873a8d065158968.jpg",
+                "styles": [
+                    {
+                        "id": 1060,
+                        "name": "青春"
+                    }
+                ],
+                "comment_total": 129684,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/786fdfa146659d41c3c7dbd0b7ccc6deda8a84f0.png",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27817,
+                "title": "百炼成神",
+                "ep_id": 971307,
+                "ep_title": "动画上线",
+                "short_title": "小剧场",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/35185785447dde64e4527ee89efb60b12eae151b.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 125166,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/006f5f36ca346461fd8db3a2f46030dad7644863.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 27591,
+                "title": "凡人修仙传",
+                "ep_id": 972167,
+                "ep_title": "猎妖人",
+                "short_title": "249",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/f0cd455f2e098cacbce536d09f02da38f9ee8631.jpg",
+                "styles": [
+                    {
+                        "id": 1092,
+                        "name": "武侠仙侠"
+                    }
+                ],
+                "comment_total": 33466,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/c93802ed0918fd328d3afe316e25736c7b79de68.png",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27644,
+                "title": "沧元图",
+                "ep_id": 957000,
+                "ep_title": "荣耀",
+                "short_title": "275",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/75ab2207da84b49e86d1c7ae840b4417164288e2.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 24377,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/3b60e4cbab1c19bbad2f6cf62e1270f5928fb51e.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            }
+        ],
+        "Thursday": [
+            {
+                "comic_id": 24442,
+                "title": "非人哉",
+                "ep_id": 971417,
+                "ep_title": "强强联手，效果更佳",
+                "short_title": "848",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/932364a522955e90daec7f0e7807e45f16479908.png",
+                "styles": [
+                    {
+                        "id": 1048,
+                        "name": "现代"
+                    }
+                ],
+                "comment_total": 309414,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/4fd60d7bfc298495170a004324c9bfcfc4d4c8af.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 28030,
+                "title": "破云",
+                "ep_id": 970886,
+                "ep_title": "双十一年终特惠低至9折",
+                "short_title": "新品开售",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/ba1605f70a0ca7374b4cdc51c995df0e6ceeee63.jpg",
+                "styles": [],
+                "comment_total": 47584,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/14d9ab3a1d43c41396f2b13cff260a204646d0eb.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27817,
+                "title": "百炼成神",
+                "ep_id": 969924,
+                "ep_title": "九五二七",
+                "short_title": "第988话",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/ebd49be918a379c6cae9bf83e87fafab16c4c293.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 125166,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/006f5f36ca346461fd8db3a2f46030dad7644863.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 24485,
+                "title": "元尊",
+                "ep_id": 969322,
+                "ep_title": "第446话：退避三舍（下）",
+                "short_title": "894",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/def1a63b2918ac32f4a3f5b1b731b4dbe79767a8.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 23825,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/4d5f1405a5a925680b7b4dbcb804436487a671e1.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26908,
+                "title": "小魔头暴露啦！",
+                "ep_id": 969331,
+                "ep_title": "各显神通",
+                "short_title": "163",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/aba575ee96b63b548716c211969456d4ce27056f.jpg",
+                "styles": [
+                    {
+                        "id": 1092,
+                        "name": "武侠仙侠"
+                    }
+                ],
+                "comment_total": 285476,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/407c172018e3bbb6466a8427ea396fbe465390d2.jpg",
+                "allow_wait_free": true,
+                "discount_type": 0
+            }
+        ],
+        "Wednesday": [
+            {
+                "comic_id": 27428,
+                "title": "无天于上2035",
+                "ep_id": 969997,
+                "ep_title": "黯蝠",
+                "short_title": "097",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/7089bfd0b60d3a8c2b7f95987dd13cbf6437b269.jpg",
+                "styles": [
+                    {
+                        "id": 1015,
+                        "name": "科幻"
+                    }
+                ],
+                "comment_total": 1561,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/18b4c04dd1d96fc1e2a777d7a43ba8f03fb4f890.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 25816,
+                "title": "战国千年",
+                "ep_id": 969195,
+                "ep_title": "通知",
+                "short_title": "请假",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/bbb2867c0b8f8375d9f3c2bd62fbd3086adbd0b8.png",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 123798,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/dbbdd1379026920111679a878e463e789e38413e.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26657,
+                "title": "武道独尊",
+                "ep_id": 966496,
+                "ep_title": "第494话 最后一道分身符！",
+                "short_title": "499",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/40592814e4c48e941920402a555bc4a36fdadf0d.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 7554,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/71974f5ab430d3b462a69ebe74a4ce9fcce78f89.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27817,
+                "title": "百炼成神",
+                "ep_id": 968528,
+                "ep_title": "肉身劫数",
+                "short_title": "第987话",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/ebd49be918a379c6cae9bf83e87fafab16c4c293.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 125166,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/006f5f36ca346461fd8db3a2f46030dad7644863.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 25931,
+                "title": "驱魔录",
+                "ep_id": 968816,
+                "ep_title": "新的饭票",
+                "short_title": "257",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/91ed6226f43a1f55bce4ad22b32870668dca6436.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 38932,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/e6b1cf45d9677099864c3bb970e9f6104cc12b4b.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 25934,
+                "title": "嗜谎之神",
+                "ep_id": 968814,
+                "ep_title": "第五章 酆都纪行-出动（下）",
+                "short_title": "5-036",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/b47a18c19fc38520bc6638fbb01931e61560be37.png",
+                "styles": [
+                    {
+                        "id": 1015,
+                        "name": "科幻"
+                    }
+                ],
+                "comment_total": 42986,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/d40c429a0b190d89e82ebdd8744b3be78cf05c6c.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 24934,
+                "title": "妖神记",
+                "ep_id": 967784,
+                "ep_title": "空灵石阵（下）",
+                "short_title": "403-2",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/a29d24faa42beff2389f42154888a423e4b4ea30.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 28526,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/c85f476747066669f54165942cfaa3d674b2bfd2.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26554,
+                "title": "擅长捉弄的（原）高木同学",
+                "ep_id": 968503,
+                "ep_title": "第252话",
+                "short_title": "252",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/d137bb1f2ec626d9fbeb0a69d684dd83ab178fe5.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 59680,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/9536b3d6c6eaef5992986d6b06d35188c20f4366.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            }
+        ],
+        "Tuesday": [
+            {
+                "comic_id": 25501,
+                "title": "步天歌",
+                "ep_id": 968813,
+                "ep_title": "第九十二回",
+                "short_title": "92",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/7d8fe0df234f1d14cc033fe18b05418142a76cf9.png",
+                "styles": [
+                    {
+                        "id": 997,
+                        "name": "古风"
+                    }
+                ],
+                "comment_total": 129125,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/d57a4bc43398a15b6369486af4398030110ca3b8.jpg",
+                "allow_wait_free": true,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26442,
+                "title": "吾皇巴扎黑",
+                "ep_id": 968085,
+                "ep_title": "救救齐刘海",
+                "short_title": "329",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/cd2ec41ba1691446258fabde49ee662c63425510.jpg",
+                "styles": [
+                    {
+                        "id": 1048,
+                        "name": "现代"
+                    }
+                ],
+                "comment_total": 32130,
+                "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/7a09083a923194113c899dd0ec459ef81f4c069c.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27244,
+                "title": "魔兽剑圣异界纵横",
+                "ep_id": 968030,
+                "ep_title": "恐魔混战",
+                "short_title": "320",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/3c1de6f271243e67a2359570c7bbfa55552d4eb5.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 34685,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/641d51b313d21cd5fc72e313fa3aaac2440ab253.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27591,
+                "title": "凡人修仙传",
+                "ep_id": 967868,
+                "ep_title": "雷劫奇遇",
+                "short_title": "248",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/626279c3f41d4631731a63166672e003a12ff9c3.jpg",
+                "styles": [
+                    {
+                        "id": 1092,
+                        "name": "武侠仙侠"
+                    }
+                ],
+                "comment_total": 33466,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/c93802ed0918fd328d3afe316e25736c7b79de68.png",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 24458,
+                "title": "神医嫡女",
+                "ep_id": 967849,
+                "ep_title": "雪中救人",
+                "short_title": "543",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/a3f3d30650b0826bf0b40834295ed92aed65255a.jpg",
+                "styles": [
+                    {
+                        "id": 997,
+                        "name": "古风"
+                    }
+                ],
+                "comment_total": 7294,
+                "vertical_cover": "http://i0.hdslb.com/bfs/bangumi/ce6da1797750c3b51380fe50ed7e22fbacb3ee32.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 27817,
+                "title": "百炼成神",
+                "ep_id": 966942,
+                "ep_title": "轩辕战书",
+                "short_title": "第986话",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/e5d33bfa8ae4d2d393f1a1fcc09887e100203c75.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 125166,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/006f5f36ca346461fd8db3a2f46030dad7644863.jpg",
+                "allow_wait_free": false,
+                "discount_type": 3
+            },
+            {
+                "comic_id": 24485,
+                "title": "元尊",
+                "ep_id": 967138,
+                "ep_title": "第446话：退避三舍（上）",
+                "short_title": "893",
+                "chapter": "",
+                "url": "http://i0.hdslb.com/bfs/manga-static/07cf7265aab5ad4301f42ccdf73a803220ffbc67.jpg",
+                "styles": [
+                    {
+                        "id": 1016,
+                        "name": "玄幻"
+                    }
+                ],
+                "comment_total": 23825,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/4d5f1405a5a925680b7b4dbcb804436487a671e1.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            },
+            {
+                "comic_id": 26018,
+                "title": "英雄再临（英雄?我早就不当了）",
+                "ep_id": 966907,
+                "ep_title": "晨起服务",
+                "short_title": "443",
+                "chapter": "",
+                "url": "https://i0.hdslb.com/bfs/manga-static/272175e64c5c071e52d52a82b19a51ce3780047b.jpg",
+                "styles": [
+                    {
+                        "id": 1002,
+                        "name": "都市"
+                    }
+                ],
+                "comment_total": 21009,
+                "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/4c8ebc3f6a2c9a7085ae0b03d8eba4666cb4ead0.jpg",
+                "allow_wait_free": false,
+                "discount_type": 0
+            }
+        ]
+    }
+}

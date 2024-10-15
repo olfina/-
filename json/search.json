@@ -1,0 +1,640 @@
+{
+    "input_lists": [
+        {
+            "season_id": 29763,
+            "title": "孤独摇滚!",
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/04d5ad021cc913942f2f4a7eac90f9f5ec09db62.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/cdd62626f24669fb32afdbed51ab886c6c726906.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/a5d57f7886af467f6a2e2a74db6b44928bc99fdf.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 60,
+            "total": 60,
+            "release_time": "",
+            "last_short_title": "60",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "都市"
+            ],
+            "tags": [
+                "呆萌",
+                "梦想",
+                "轻橘",
+                "学生",
+                "轻松",
+                "日常"
+            ],
+            "rank_info": {
+                "name": "日漫榜",
+                "rank": 11
+            },
+            "score": 7.6168,
+            "update_day": 0,
+            "good_review": 409,
+            "search_num": 0
+        },
+        {
+            "season_id": 26551,
+            "title": "罗小黑战记·蓝溪镇",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/7d5ffc8ddc2767c5ce1e30bfe0041c55568f7718.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/8389fc7eb3d0f17828547ad5f6bbed66568882a2.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/e79378436e02fd7f227b901efb9fe79c2df9499c.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 100,
+            "total": 99,
+            "release_time": "",
+            "last_short_title": "098",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "古风"
+            ],
+            "tags": [
+                "神魔",
+                "妖怪",
+                "治愈",
+                "萌系"
+            ],
+            "rank_info": {
+                "name": "宝藏榜",
+                "rank": 7
+            },
+            "score": 9.9069,
+            "update_day": 0,
+            "good_review": 1081,
+            "search_num": 0
+        },
+        {
+            "season_id": 24726,
+            "title": "境·界（死神）",
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/d46db3934dba8bd0972db71925f71342d25e0ea3.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/bangumi/1e1aaed3996dfd07e1a59c3e601d4535f6d6639f.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/4c4b0666f1d4dd762d0a5d580ba94ee92dfa805f.jpg",
+            "is_finish": 1,
+            "status": 0,
+            "last_ord": 708,
+            "total": 708,
+            "release_time": "",
+            "last_short_title": "短篇（3）",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "热血"
+            ],
+            "tags": [
+                "勇敢",
+                "战斗",
+                "经典",
+                "异能",
+                "学生",
+                "友情"
+            ],
+            "rank_info": {
+                "name": "男生榜",
+                "rank": 3
+            },
+            "score": 9.2018,
+            "update_day": 0,
+            "good_review": 104,
+            "search_num": 0
+        },
+        {
+            "season_id": 32597,
+            "title": "伍六七：黑白双龙2",
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/a9fe93f327916d27941a7ded0d3ac146bf26a591.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/53cb8afc97dd12b47954758dfdce31d9ea12e65b.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/ccfeda66c206056af1b97d4488a26689764d3657.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 11,
+            "total": 12,
+            "release_time": "",
+            "last_short_title": "番外1",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "热血"
+            ],
+            "tags": [
+                "智斗"
+            ],
+            "rank_info": {
+                "name": "新作榜",
+                "rank": 19
+            },
+            "score": 8.9085,
+            "update_day": 1,
+            "good_review": 881,
+            "search_num": 0
+        },
+        {
+            "season_id": 24442,
+            "title": "非人哉",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/57d083e085d7c1a3be5b50150c1073f7c065ebbc.png",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/9317e164321acfa85faaa31755389492dc1dc9c2.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/4fd60d7bfc298495170a004324c9bfcfc4d4c8af.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 868.5,
+            "total": 865,
+            "release_time": "",
+            "last_short_title": "848",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "现代"
+            ],
+            "tags": [
+                "妖怪",
+                "神魔",
+                "阳光",
+                "萌系",
+                "搞笑",
+                "日常",
+                "修真"
+            ],
+            "rank_info": {
+                "name": "女生榜",
+                "rank": 1
+            },
+            "score": 9.8399,
+            "update_day": 0,
+            "good_review": 476,
+            "search_num": 0
+        },
+        {
+            "season_id": 32173,
+            "title": "我竟是绝世高手",
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/50d59da7c686d0d27ef8617ff6c174d795d790cf.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/1a848788bcf9cd0aa56eef848f0cd90970d826f5.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/b03259a0e654d09d0df0b50f4715ff173d90ad54.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 6,
+            "total": 6,
+            "release_time": "",
+            "last_short_title": "006",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "玄幻"
+            ],
+            "tags": [
+                "腹黑",
+                "修仙",
+                "穿越",
+                "搞笑",
+                "无敌",
+                "颜值逆天",
+                "灵气复苏",
+                "种田"
+            ],
+            "rank_info": {
+                "name": "新作榜",
+                "rank": 8
+            },
+            "score": 7.2289,
+            "update_day": 0,
+            "good_review": 37,
+            "search_num": 0
+        },
+        {
+            "season_id": 26470,
+            "title": "一拳超人",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/098f9f01e59beecd77d14b0e2eee5ef4cb549d0b.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/52c014c5b2d6f076fcd2c4f73d0428d87f73ba12.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/accd35013c082cb622fb8749c86aec3bd4fb9253.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 217,
+            "total": 222,
+            "release_time": "",
+            "last_short_title": "217",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "热血"
+            ],
+            "tags": [
+                "懒散",
+                "战斗",
+                "冒险"
+            ],
+            "rank_info": {
+                "name": "日漫榜",
+                "rank": 2
+            },
+            "score": 8.5822,
+            "update_day": 0,
+            "good_review": 140,
+            "search_num": 0
+        },
+        {
+            "season_id": 25501,
+            "title": "步天歌",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/2b50e70cd351b9e9a37e3579c724ae430274bd00.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/7f70181711418e95eddc0be035036fffa95011c3.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/d57a4bc43398a15b6369486af4398030110ca3b8.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 103,
+            "total": 98,
+            "release_time": "",
+            "last_short_title": "92",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": true,
+            "styles": [
+                "古风"
+            ],
+            "tags": [
+                "双胞胎",
+                "神魔",
+                "兄妹",
+                "勇敢",
+                "倔强",
+                "战斗",
+                "复仇",
+                "热血"
+            ],
+            "rank_info": {
+                "name": "国漫榜",
+                "rank": 1
+            },
+            "score": 9.8472,
+            "update_day": 0,
+            "good_review": 180,
+            "search_num": 0
+        },
+        {
+            "season_id": 29424,
+            "title": "斗破苍穹之大主宰",
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/4ff872b19b768b7115de0c05f1cec732e56ef194.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/29363d8b2cbf9301ba831db195279a3e3377a3bb.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/81fac19d7bceef288f0e86984cee6c6637f902ef.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 599,
+            "total": 599,
+            "release_time": "",
+            "last_short_title": "598",
+            "ext": "{\"trace_id\":\"72060d84d783f0e7\"}",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "玄幻"
+            ],
+            "tags": [
+                "逆袭",
+                "刀剑",
+                "功法",
+                "龙傲天",
+                "装逼",
+                "爽",
+                "热血"
+            ],
+            "rank_info": {
+                "name": "日漫榜",
+                "rank": 0
+            },
+            "score": 7.7834,
+            "update_day": 1,
+            "good_review": 8,
+            "search_num": 0
+        }
+    ],
+    "list": [
+        {
+            "id": 28425,
+            "title": "<em class=\"keyword\">我</em>和<em class=\"keyword\">我</em>对家",
+            "org_title": "我和我对家",
+            "alia_title": [],
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/bca9682195cab04d06651dee14f19818bcbb2682.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/340cbb87896cc768445edb3a457692849b82c853.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/25067f4621ed6ee9e7a9e528de3a2b0fcaeecdfa.jpg",
+            "author_name": [
+                "二三玖陆工作室",
+                "原著：PEPA",
+                "长佩文学"
+            ],
+            "styles": [],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "二三玖陆工作室",
+                    "原著：PEPA",
+                    "长佩文学"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 29839,
+            "title": "<em class=\"keyword\">我</em>真不是邪神走狗",
+            "org_title": "我真不是邪神走狗",
+            "alia_title": [],
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/89c2bb690d5b985283528417857e29aece4b17d3.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/142df0a4aa10c8fb6091d7663d9c4a2b44445a86.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/6f5e75ca01c001484c808f290894b0d717c9d02c.jpg",
+            "author_name": [
+                "<em class=\"keyword\">我</em>梦动漫",
+                "万劫火",
+                "刺猬猫阅读"
+            ],
+            "styles": [
+                "奇幻"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "<em class=\"keyword\">我</em>梦动漫",
+                    "万劫火",
+                    "刺猬猫阅读"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 27915,
+            "title": "<em class=\"keyword\">我</em>独自盗墓",
+            "org_title": "我独自盗墓",
+            "alia_title": [],
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/18cdc38428d1ce9fb20fa81c334155f290a03f8f.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/7a5ab842689b574c3c71b90e313e0eb694898576.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/a89fd50845db680951846c2bcae13d6a10198fa2.jpg",
+            "author_name": [
+                "3B2S",
+                "Yuns",
+                "SAN.G",
+                "L SEVEN"
+            ],
+            "styles": [
+                "都市"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "3B2S",
+                    "Yuns",
+                    "SAN.G",
+                    "L SEVEN"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 27491,
+            "title": "<em class=\"keyword\">我</em>的守护女友",
+            "org_title": "我的守护女友",
+            "alia_title": [],
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/0c2e583b652eb0a704acbe489b8da2fc00d6a4bd.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/852e5cf805fee01380c459f065444a40ee31de3d.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/30bc7b0fc8acf916d859cb63c310bd610f5f5b79.jpg",
+            "author_name": [
+                "惊奇工场"
+            ],
+            "styles": [
+                "科幻"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "惊奇工场"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 27768,
+            "title": "<em class=\"keyword\">我</em>的怪物",
+            "org_title": "我的怪物",
+            "alia_title": [],
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/9572e984786494689dbd1aeebc2b56b9cf094b6e.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/27e9432fedfc67f0c6c2764ec4340ce4e4e38fd9.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/83339051030aea69436babe1ab5f0c34a190b5ec.jpg",
+            "author_name": [
+                "木火然",
+                "多蕴文化"
+            ],
+            "styles": [],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "木火然",
+                    "多蕴文化"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 26573,
+            "title": "<em class=\"keyword\">我</em>是蜘蛛又怎样？",
+            "org_title": "我是蜘蛛又怎样？",
+            "alia_title": [],
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/72bd799ab4c3fe2c45fa074df3fd5010cdbf434e.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/43d8f74be90f204e1dfbc8619819ffe077aadae5.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/b64e971ed903b7b4f7105c5397c2346fbb127c40.jpg",
+            "author_name": [
+                "马场翁",
+                "案山子朝浩",
+                "角川集团"
+            ],
+            "styles": [
+                "奇幻"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "马场翁",
+                    "案山子朝浩",
+                    "角川集团"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 28630,
+            "title": "装备<em class=\"keyword\">我</em>最强",
+            "org_title": "装备我最强",
+            "alia_title": [],
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/923670b9a9da1056a03ec01e08ac37aaea0d6556.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/2f3917321c3ff641c207220c4189cf9712e9d80e.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/a589d616236a354f2efb3e935ab1cee15de64cae.jpg",
+            "author_name": [
+                "Team Argo",
+                "Monohumbug(Redice Studio)",
+                "Saenal",
+                "REDICE STUDIO"
+            ],
+            "styles": [
+                "游戏竞技"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "Team Argo",
+                    "Monohumbug(Redice Studio)",
+                    "Saenal",
+                    "REDICE STUDIO"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 27809,
+            "title": "快把<em class=\"keyword\">我</em>哥带走",
+            "org_title": "快把我哥带走",
+            "alia_title": [],
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/56303c8c67c214584c2393ced8bed4698949715e.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/6c2450cc59cee85fe9aed5b4faa8bf16e008017b.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/786fdfa146659d41c3c7dbd0b7ccc6deda8a84f0.png",
+            "author_name": [
+                "幽·灵"
+            ],
+            "styles": [
+                "青春"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "幽·灵"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        },
+        {
+            "id": 25857,
+            "title": "<em class=\"keyword\">我</em>在皇宫当巨巨",
+            "org_title": "我在皇宫当巨巨",
+            "alia_title": [],
+            "horizontal_cover": "https://i0.hdslb.com/bfs/manga-static/712ff26254754a697c40a12e8ccc1e87e9f49a57.jpg",
+            "square_cover": "https://i0.hdslb.com/bfs/manga-static/81b2a4e0c63c2c162dbcb9feef729256384b1a8e.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/23500d54df276ac80d9b3d23d6dc0fc52640fe4a.jpg",
+            "author_name": [
+                "白梦社",
+                "之臻",
+                "小球"
+            ],
+            "styles": [
+                "古风"
+            ],
+            "is_finish": 0,
+            "allow_wait_free": false,
+            "discount_type": 0,
+            "type": 0,
+            "wiki": {
+                "id": 0,
+                "title": "",
+                "origin_title": "",
+                "vertical_cover": "",
+                "producer": "",
+                "author_name": [
+                    "白梦社",
+                    "之臻",
+                    "小球"
+                ],
+                "publish_time": "",
+                "frequency": ""
+            },
+            "numbers": 0
+        }
+    ]
+}
